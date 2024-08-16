@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66bc52ce62db7402790ead41"
+  },
+  "name": "pizza",
+  "quantity": 3,
+  "price": 250,
+  "createdAt": {
+    "$date": "2024-08-14T06:46:38.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T06:46:38.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5fd3d41332fc63fa522a"
+  },
+  "name": "donut",
+  "quantity": 7,
+  "price": 300,
+  "createdAt": {
+    "$date": "2024-08-14T07:42:11.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T07:42:11.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5febf714e4aec9d226da"
+  },
+  "name": "Updated Donut",
+  "quantity": 8,
+  "price": 300,
+  "createdAt": {
+    "$date": "2024-08-14T07:42:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T10:09:17.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bde302cf4a769bc15ef407"
+  },
+  "name": "juice",
+  "quantity": 12,
+  "price": 10,
+  "createdAt": {
+    "$date": "2024-08-15T11:14:10.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T11:14:10.431Z"
+  },
+  "__v": 0
+}]
