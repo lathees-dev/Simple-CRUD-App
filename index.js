@@ -1,13 +1,13 @@
 // Initializing variables
 const express = require("express");
 const mongoose = require("mongoose");
-const Product = require("./models/product.models.js");
-const productRoutes = require("./routes/product.route.js");
 const app = express();
 const dotenv = require('dotenv');
 dotenv.config();
 const PORT = process.env.PORT || 3000;
 const CONNECTION = process.env.CONNECTION
+const Product = require("./models/product.models.js");
+const productRoutes = require("./routes/product.route.js");
 
 // initialize middleware
 app.use(express.json());
